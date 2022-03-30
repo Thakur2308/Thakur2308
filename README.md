@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Om.
-- 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Data Structure and Algorithms.
 - 📫 You can reach me on om.thakur.2308@gmail.com
 
