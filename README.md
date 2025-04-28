@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Om.
-- 🌱 I’m currently learning Data Structure and Algorithms.
+- 🌱 I’m working as a Full Stack Developer in BGSW.
 - 📫 You can reach me on om.thakur.2308@gmail.com
 
 <!---
